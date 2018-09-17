@@ -1,0 +1,2 @@
+# HackNC-2017
+I along with my team of seven designed a model of 3D Virtual Reality (VR) environments using Unity, Oculus Rift, and C# scripting. We manipulated shapes to construct three different types of 3D graphics to create lifelike environments that simulate a user's physical presence in a virtual world. By participating in HackNC 2017 competition, I learnt how to construct 3D graphics and get familiar with working on VR which is an user-friendly platform to explore real world scenic beauties and historical monuments like museums in lower cost.
